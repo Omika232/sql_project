@@ -26,5 +26,5 @@ This project involves analyzing a bank dataset using SQL for data manipulation a
 - Trends in account balances among different age groups.
 - Identification of high-value customers and overall loan statistics.
 
- Conclusion
+ Conclusion :
 This project showcases the powerful combination of SQL for data manipulation and Power BI for data visualization. By cleaning the data and creating insightful visualizations, it provides valuable insights into customer demographics, account types, and loan distributions.
